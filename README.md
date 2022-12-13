@@ -7,3 +7,4 @@ Change 2 in GitHub
 Change 2 in Local PC
 
 Change in main
+Change in new-branch for conflict
