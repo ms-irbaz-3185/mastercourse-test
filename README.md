@@ -6,4 +6,4 @@ Change in GitHub
 Change 2 in GitHub
 Change 2 in Local PC
 
-Change in new-branch
+Change in new-branch for conflict
